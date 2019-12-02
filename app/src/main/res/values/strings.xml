@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GattGett</string>
+    <string name="grant_permissions">Grant permissions</string>
+</resources>
